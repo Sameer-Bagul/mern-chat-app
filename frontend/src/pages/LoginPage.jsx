@@ -31,8 +31,8 @@ const LoginPage = () => {
               >
                 <MessageSquare className="w-6 h-6 text-primary" />
               </div>
-              <h1 className="text-2xl font-bold mt-2">Welcome Back</h1>
-              <p className="text-base-content/60">Sign in to your account</p>
+              <h1 className="text-2xl font-bold mt-2">Welcome to AnonChat</h1>
+              <p className="text-base-content/60">Sign in to chat anonymously</p>
             </div>
           </div>
 
@@ -110,8 +110,8 @@ const LoginPage = () => {
 
       {/* Right Side - Image/Pattern */}
       <AuthImagePattern
-        title={"Welcome back!"}
-        subtitle={"Sign in to continue your conversations and catch up with your messages."}
+        title={"Join AnonChat!"}
+        subtitle={"Sign in to start chatting anonymously with others."}
       />
     </div>
   );

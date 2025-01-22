@@ -49,7 +49,7 @@ const SignUpPage = () => {
                 <MessageSquare className="size-6 text-primary" />
               </div>
               <h1 className="text-2xl font-bold mt-2">Create Account</h1>
-              <p className="text-base-content/60">Get started with your free account</p>
+              <p className="text-base-content/60">Get started with your free Anonymous account</p>
             </div>
           </div>
 
@@ -145,8 +145,8 @@ const SignUpPage = () => {
       {/* right side */}
 
       <AuthImagePattern
-        title="Join our community"
-        subtitle="Connect with friends, share moments, and stay in touch with your loved ones."
+        title="Join our Anonymous community"
+        subtitle="Connect with Strangers, share moments, and stay in touch with your new loved ones."
       />
     </div>
   );
